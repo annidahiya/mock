@@ -1,0 +1,22 @@
+
+
+.navbar{
+    display: flex;
+    height: 42px;
+    justify-content: space-around;
+    font-size: 25px;
+    background-color: teal;
+        position: sticky;
+        top: 0;
+
+}
+li{
+   list-style: none; 
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    color: blue;
+}

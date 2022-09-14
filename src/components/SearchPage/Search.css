@@ -1,0 +1,21 @@
+.searchPage{
+    width: 50%;
+    margin: auto;
+    align-items: center;
+    margin-top: 20px;
+}
+
+input{
+    width: 300px;
+    height: 25px;
+    border-radius: 8px;
+    border: none;
+    padding: 2px;
+    padding-left: 15px;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.imageContainer>img{
+    border-radius: 20px;
+}

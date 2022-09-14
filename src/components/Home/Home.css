@@ -1,0 +1,19 @@
+.cart{
+    height: 100px;
+    width: 150px;
+    border-radius: 4px;
+    background-color: teal;
+    color: aliceblue;
+}
+.cartContainer{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.link1{
+    text-decoration: none;
+}
